@@ -24,7 +24,7 @@ const Intro = () => {
           scaleMobile: 1.0,
           color: 0x14fae4,
           backgroundColor: 0x181422, // Restored original background
-        })
+        }),
       );
     }
     return () => vantaEffect?.destroy();
@@ -36,7 +36,7 @@ const Intro = () => {
 
   return (
     <div
-    id="home"
+      id="home"
       ref={vantaRef}
       style={{
         height: "100vh",

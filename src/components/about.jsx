@@ -49,21 +49,26 @@ const About = () => {
 
         {/* Description */}
         <Typography variant="body1" sx={{ fontSize: "1.2rem", marginTop: 2 }}>
-          Hey there! I'm <b>Chirag Garg</b>, a <b>final-year Computer Science student</b> at 
-          <b> Punjab Engineering College, Chandigarh</b>. Born and raised in the vibrant city of Chandigarh, 
-          I developed a keen interest in <b>Artificial Intelligence and Machine Learning</b>, 
-          which has been the driving force behind my journey.
+          Hey there! I'm <b>Chirag Garg</b>, a{" "}
+          <b>final-year Computer Science student</b> at
+          <b> Punjab Engineering College, Chandigarh</b>. Born and raised in the
+          vibrant city of Chandigarh, I developed a keen interest in{" "}
+          <b>Artificial Intelligence and Machine Learning</b>, which has been
+          the driving force behind my journey.
           <br />
           <br />
-          Currently, I’m working as a <b>Spring Intern at Cisco</b>, diving deep into cutting-edge technologies. 
-          I also serve as the <b>AI Lead for ACM-CSS PEC Chapter</b>, where I contribute to fostering a 
-          strong AI community. Over the years, I’ve actively participated in multiple <b>hackathons and 
-          open-source programs</b>, always seeking opportunities to innovate and collaborate.
+          Currently, I’m working as a <b>Spring Intern at Cisco</b>, diving deep
+          into cutting-edge technologies. I also serve as the{" "}
+          <b>AI Lead for ACM-CSS PEC Chapter</b>, where I contribute to
+          fostering a strong AI community. Over the years, I’ve actively
+          participated in multiple <b>hackathons and open-source programs</b>,
+          always seeking opportunities to innovate and collaborate.
           <br />
           <br />
-          Beyond coding, I’m an avid <b>binge-watcher</b> who loves <b>anime</b>, fast drives, and 
-          engaging in <b>sports</b>. Whether it's building AI-driven solutions or exploring new tech stacks, 
-          I’m always up for a challenge!
+          Beyond coding, I’m an avid <b>binge-watcher</b> who loves <b>anime</b>
+          , fast drives, and engaging in <b>sports</b>. Whether it's building
+          AI-driven solutions or exploring new tech stacks, I’m always up for a
+          challenge!
           <br />
           <br />
           Let’s connect and create something incredible! 🚀
